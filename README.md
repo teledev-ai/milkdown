@@ -96,3 +96,5 @@ Thanks to the following projects and companies for their support to milkdown and
 [discord-badge]: https://img.shields.io/discord/870181036041060352
 [discord-link]: https://discord.gg/SdMnrSMyBX
 [vercel-oss-badge]: https://vercel.com/oss/program-badge.svg
+
+This repository is a fork of [Milkdown/milkdown](https://github.com/Milkdown/milkdown).
